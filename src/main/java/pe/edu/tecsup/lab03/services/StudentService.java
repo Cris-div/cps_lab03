@@ -1,5 +1,8 @@
 package pe.edu.tecsup.lab03.services;
 
 public class StudentService {
-    //TO DO
+
+    public String sayHello() {
+        return "Hola desde StudentService!";
+    }
 }
